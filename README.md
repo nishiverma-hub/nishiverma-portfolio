@@ -6,7 +6,7 @@ Live site: https://YOURUSERNAME.github.io/nishi-verma-portfolio/
 
 ## Files
 - `index.html` is the whole site (HTML and CSS in one file).
-- `images/` holds your photos: `1787607151284.jpeg` (your portrait) and one image per project:
+- `images/` holds your photos: `profile.jpeg` (your portrait) and one image per project:
   `jjm-1.jpg`, `programme-1.jpg`,
   `private-1.jpg`, `paper-1.jpg`.
   Until a file is added, the page shows a grey hatched placeholder.
